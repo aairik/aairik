@@ -1,5 +1,5 @@
-- Hi, I’m @aairik
-- I’m interested in Python & JavaScript
+- Hi, I’m Aairik
+- I’m interested in Python, JavaScript & Android App Development
 
 <!---
 aairik/aairik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
